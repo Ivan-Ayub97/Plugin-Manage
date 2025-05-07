@@ -19,9 +19,9 @@ The Software is provided "AS IS", without warranty of any kind, express or impli
 
 ---
 
-### **Technologies and Libraries Used in VST Backup:**
+### **Technologies and Libraries Used in Plugin-Manage**
 
-VST Backup is built using the following open-source libraries and tools:
+Plugin-Manage is built using the following open-source libraries and tools:
 
 - **[PyQt5](https://riverbankcomputing.com/software/pyqt/intro)** – Framework for building the graphical user interface.
 - **[shutil](https://docs.python.org/3/library/shutil.html)** – Python library for file operations like copying and moving.
@@ -32,31 +32,27 @@ VST Backup is built using the following open-source libraries and tools:
 
 ### **Licenses of Integrated Technologies:**
 
-Each technology used in VST Backup has its own open-source license. Below are the licenses of the libraries and tools utilized:
+Each technology used in Plugin-Manage has its own open-source license. Below are the licenses of the libraries and tools utilized:
 
 - **[PyQt5](https://riverbankcomputing.com/software/pyqt/intro)** – GPLv3 or a commercial license
 - **[shutil](https://docs.python.org/3/library/shutil.html)** – Python Software Foundation License
 - **[os](https://docs.python.org/3/library/os.html)** – Python Software Foundation License
 - **[Python](https://www.python.org/)** – Python Software Foundation License
 
-The use of VST Backup implies compliance with the terms of the open-source licenses of the aforementioned libraries and tools.
+The use of Plugin-Manage implies compliance with the terms of the open-source licenses of the aforementioned libraries and tools.
 
 ---
 
 ### **Distribution and Modification:**
 
-VST Backup is distributed under the **MIT License**, which allows free distribution and modification of the software, provided that the copyright notice and this license remain intact. If you modify the Software and distribute an altered version, you must include a mention indicating the changes made.
+Plugin-Manage is distributed under the **MIT License**, which allows free distribution and modification of the software, provided that the copyright notice and this license remain intact. If you modify the Software and distribute an altered version, you must include a mention indicating the changes made.
 
 ---
 
 ### **Liability Disclaimer:**
 
-The author(s) of this Software assume no responsibility for its use. Any issues arising from the use, installation, modification, or distribution of the Software are the sole responsibility of the user. This Software is designed to back up and organize VST plugins and should not be used for illegal or inappropriate purposes.
+The author(s) of this Software assume no responsibility for its use. Any issues arising from the use, installation, modification, or distribution of the Software are the sole responsibility of the user. This Software is designed to back up and organize Plugin-Manage and should not be used for illegal or inappropriate purposes.
 
 ---
 
-If you have any questions or suggestions, contact us at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-### **VST Backup** is an open-source project committed to continuously improving its functionalities and providing an efficient tool for backing up and organizing VST plugins
+### **Plugin-Manage** is an open-source project committed to continuously improving its functionalities and providing an efficient tool for backing up and organizing.
